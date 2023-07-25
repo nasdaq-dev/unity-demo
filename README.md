@@ -9,6 +9,20 @@
 - Реализация аудио проигрывателя
 - Реализация видео проигрывателя
 
+# Установка и запуск
+Для запуска проекта необходимо:
+
+0. Скачать архив проекта - https://drive.google.com/file/d/1WKnN-QjpQ68CYT32nuZSkhEy5rbUqeIn/view?usp=sharing
+1. Скачать Unity Hub https://unity.com/ru/download
+2. Внутри UH устновить Editor 2022.3.5f1 LTS
+<img width="500" alt="Screenshot 2023-07-25 at 16 39 14" src="https://github.com/nasdaq-dev/unity-demo/assets/24631969/d168d548-72da-455e-84ca-52d4fa1e5bba">
+
+3. Распаковать содержимое архива и добавить папку проекта в Unity Hub
+<img width="180" alt="Screenshot 2023-07-25 at 16 40 14" src="https://github.com/nasdaq-dev/unity-demo/assets/24631969/d922538f-7bb8-4f64-83b3-22094c00dcd4">
+
+4. Запустить проект в UH
+<img width="500" alt="Screenshot 2023-07-25 at 16 40 59" src="https://github.com/nasdaq-dev/unity-demo/assets/24631969/46435c7e-1720-49f5-9a14-0ea5d32b8c24">
+
 # Изображения
 
 Для того, чтобы вставить в сцену собственное изображение, можно воспользоваться следующим методом:
